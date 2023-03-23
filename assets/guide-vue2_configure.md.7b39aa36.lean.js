@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,Q as n}from"./chunks/framework.7427aee3.js";const D=JSON.parse('{"title":"配置","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/configure.md"}'),o={name:"guide-vue2/configure.md"},t=n("",9),l=[t];function p(c,r,i,d,h,u){return a(),e("div",null,l)}const g=s(o,[["render",p]]);export{D as __pageData,g as default};

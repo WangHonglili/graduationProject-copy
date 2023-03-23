@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,Q as n}from"./chunks/framework.7427aee3.js";const u=JSON.parse('{"title":"构建与预览","description":"","frontmatter":{},"headers":[],"relativePath":"guide/build.md"}'),l={name:"guide/build.md"},p=n("",13),o=[p];function t(c,i,r,d,C,_){return s(),e("div",null,o)}const A=a(l,[["render",t]]);export{u as __pageData,A as default};

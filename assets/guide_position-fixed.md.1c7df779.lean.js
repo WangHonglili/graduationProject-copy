@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,Q as o}from"./chunks/framework.7427aee3.js";const u=JSON.parse('{"title":"高级 position:fixed","description":"","frontmatter":{},"headers":[],"relativePath":"guide/position-fixed.md"}'),t={name:"guide/position-fixed.md"},n=o("",4),i=[n];function p(c,l,d,r,_,f){return a(),e("div",null,i)}const h=s(t,[["render",p]]);export{u as __pageData,h as default};

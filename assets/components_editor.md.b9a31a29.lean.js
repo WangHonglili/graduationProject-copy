@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,Q as a}from"./chunks/framework.7427aee3.js";const y=JSON.parse('{"title":"Editor 富文本编辑器","description":"","frontmatter":{},"headers":[],"relativePath":"components/editor.md"}'),d={name:"components/editor.md"},s=a("",4),i=[s];function n(o,r,f,h,_,c){return e(),l("div",null,i)}const g=t(d,[["render",n]]);export{y as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as o}from"./chunks/framework.7427aee3.js";const u=JSON.parse('{"title":"代码规范","description":"","frontmatter":{},"headers":[],"relativePath":"guide/coding-standard.md"}'),i={name:"guide/coding-standard.md"},r=o("",15),l=[r];function n(s,c,d,p,h,g){return t(),a("div",null,l)}const _=e(i,[["render",n]]);export{u as __pageData,_ as default};

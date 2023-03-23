@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.7427aee3.js";const i=JSON.parse('{"title":"权限验证","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/permission.md"}'),p={name:"guide-vue2/permission.md"},o=l("",27),e=[o];function t(c,r,D,F,y,C){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
